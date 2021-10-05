@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+    padding: 30px 20px 10px;
+}
+
+header .title{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header .sub-title{
+    font-size: 18px;
+    padding: 20px;
+}
